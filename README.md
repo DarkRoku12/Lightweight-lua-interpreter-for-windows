@@ -1,1 +1,1 @@
-"# Lightweight-lua-interpreter-for-windows" 
+Lightweight Lua interpreter for Windows.
